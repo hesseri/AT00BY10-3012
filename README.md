@@ -1,5 +1,7 @@
 # Student template
 
+[![Coverage Status](https://coveralls.io/repos/github/hesseri/AT00BY10-3012/badge.svg?branch=main)](https://coveralls.io/github/hesseri/AT00BY10-3012?branch=main)
+
 ## Purpose of this repository
 
 This is a project template for students participating in Software Testing course
